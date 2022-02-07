@@ -35,7 +35,7 @@ body {
 
 #nft-card {
   background-color: var(--card-BG);
-  margin: 130px auto;
+  margin: 50px auto;
   color: var(--white);
   padding: 20px;
   border-radius: 15px;
