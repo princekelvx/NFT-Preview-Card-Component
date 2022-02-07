@@ -91,7 +91,7 @@ body {
 }
 
 #nft-card h4:hover {
-  color: var(--line);
+  color: var(--cyan);
   cursor: pointer;
 }
 
