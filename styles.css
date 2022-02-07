@@ -85,12 +85,12 @@ body {
   cursor: pointer;
 }
 
-#nft-card h4 {
+#nft-card h1 {
   font-weight: 600;
   margin-bottom: 10px;
 }
 
-#nft-card h4:hover {
+#nft-card h1:hover {
   color: var(--cyan);
   cursor: pointer;
 }
